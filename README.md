@@ -11,7 +11,7 @@
     <p>Programas e ferramentas que ultilizo</p>
     <img align="center" alt="Vs-code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
     <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Mysql" height="50" width="50" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png">
+    <img align="center" alt="Mysql" height="50" width="50" src="https://iconape.com/wp-content/files/zd/370920/svg/370920.svg">
  </div>
  
  <div style="display: block;"><br>
