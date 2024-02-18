@@ -18,7 +18,8 @@
  
  <div style="display: block;"><br>
     <p>Contatos e redes socias</p>
+    <a href="https://wa.me/5563992342258" target="_blank"><img align="center" alt="Instagram" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png"></a>
     <a href="https://www.instagram.com/dev.thur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img align="center" alt="Instagram" width="50" height="50" src="https://cdn-icons-png.flaticon.com/256/1384/1384063.png"></a>
-    <a href="mailto:arthurinacio.dev@gmail.com"><img align="center" alt="Mysql" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
+    <a href="mailto:arthurinacio.dev@gmail.com" target="_blank"><img align="center" alt="Mysql" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
  </div>
  
